@@ -1,0 +1,26 @@
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/appsettings.Development.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/appsettings.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/Dependency Injection
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/Dependency Injection.deps.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/Dependency Injection.runtimeconfig.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/Dependency Injection.dll
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/bin/Debug/net7.0/Dependency Injection.pdb
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.csproj.AssemblyReference.cache
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.AssemblyInfoInputs.cache
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.AssemblyInfo.cs
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.csproj.CoreCompileInputs.cache
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.MvcApplicationPartsAssemblyInfo.cache
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets/msbuild.Dependency Injection.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets/msbuild.build.Dependency Injection.props
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Dependency Injection.props
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Dependency Injection.props
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/scopedcss/bundle/Dependency Injection.styles.css
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.dll
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/refint/Dependency Injection.dll
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.pdb
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/Dependency Injection.genruntimeconfig.cache
+/Users/shivansri/Projects/Dependency Injection/Dependency Injection/obj/Debug/net7.0/ref/Dependency Injection.dll
